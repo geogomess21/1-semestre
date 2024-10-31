@@ -164,5 +164,5 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
 |Product Owner| Leonardo Sousa| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Scrum Master| Geovanna Elisa | [![Linkedin Badge](https://www.linkedin.com/in/geovanna-elisa-4992b2329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]( ) [![GitHub Badge]([https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white](https://github.com/geogomess21))]()|
+|Scrum Master| Geovanna Elisa |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geovanna-elisa-4992b2329/)          
 |Team Member| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
