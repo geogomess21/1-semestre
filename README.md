@@ -83,7 +83,8 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 ## Tecnologias Utilizadas
 ### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
+>![image](https://github.com/user-attachments/assets/ddd15371-9e52-4ae5-996c-711151bd00df)
+
 
 ### Tecnológias Específicas/Apoio
 > Liste aqui todas as tecnologias utilizadas para colcluir as entregas
