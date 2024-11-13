@@ -89,7 +89,11 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 
 ### Tecnológias Específicas/Apoio
->https://firebearstudio.com/blog/wp-content/uploads/2022/11/1A6kkoOVJVpXPWewg8axc5w.png)
+>Apoios Usados:
+>Canva
+>PowerBI
+>Excel
+
   
 ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API
