@@ -91,7 +91,8 @@ Vídeo com a apresentação final da API do "semestre/ano"
 ### Tecnológias Específicas/Apoio
 >Apoios Usados:
 >Canva,
->PowerBI e
+>PowerBI,
+>Github e
 >Excel
 
   
