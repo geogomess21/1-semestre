@@ -84,7 +84,8 @@ Vídeo com a apresentação final da API do "semestre/ano"
 ## Tecnologias Utilizadas
 ### Produto 
 
-> Sprint 1   Deu-se o início da empresa ![image](https://github.com/user-attachments/assets/8d981128-584e-4234-b103-f2c7c4b8e96b) 
+> Sprint 1
+> Deu-se o início da empresa ![image](https://github.com/user-attachments/assets/8d981128-584e-4234-b103-f2c7c4b8e96b) 
 > Sprint 2 ![image](https://github.com/user-attachments/assets/ddd15371-9e52-4ae5-996c-711151bd00df)
 
 
