@@ -89,11 +89,8 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 
 ### Tecnológias Específicas/Apoio
->Apoios Usados:
->Canva,
->PowerBI,
->Github e
->Excel
+![image](https://github.com/user-attachments/assets/cfe3400b-7545-4f85-bb8d-eabbccb29811)
+
 
   
 ### Mindset Digital
