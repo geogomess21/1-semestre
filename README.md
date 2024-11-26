@@ -38,7 +38,7 @@ Sprint | Previsão | Status| Histórico|
 # Objetivo do Projeto
 >A nossa revendedora de celulares busca se tornar uma referência em qualidade, variedade e atendimento ao cliente. Queremos oferecer os melhores modelos de smartphones disponíveis no mercado, desde os mais populares até os de alta gama, sempre acompanhados de um suporte técnico e consultivo que ajude os consumidores a escolherem o dispositivo que melhor atende às suas necessidades.
 
-## Tecnologias Utilizadas
+
 ### Produto 
 
 > Sprint 1 / Deu-se o início da empresa ![image](https://github.com/user-attachments/assets/8d981128-584e-4234-b103-f2c7c4b8e96b) 
