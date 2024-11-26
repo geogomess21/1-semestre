@@ -66,7 +66,8 @@ Sprint | Previsão | Status| Histórico|
 
       
 ## Sprint 3 
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+>![image](https://github.com/user-attachments/assets/2f9aea42-6726-4cb7-b0ff-03bb12305bab)
+
       
 ## Sprint 4
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
