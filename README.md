@@ -32,7 +32,8 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 # Equipe
->![Captura de tela 2024-10-29 195542](https://github.com/user-attachments/assets/5c5df028-fed8-464e-a614-737ad2a5e130)
+>![image](https://github.com/user-attachments/assets/0ae4b348-84b3-4307-9a1e-6176f5449bb0)
+
 
 
 # Objetivo do Projeto
