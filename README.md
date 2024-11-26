@@ -33,10 +33,6 @@ Sprint | Previsão | Status| Histórico|
 
 > Possíveis status: a fazer, em progresso e concluido
 
-# Micro Certificações
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
 
 # Equipe
 >![Captura de tela 2024-10-29 195542](https://github.com/user-attachments/assets/5c5df028-fed8-464e-a614-737ad2a5e130)
@@ -49,38 +45,6 @@ Sprint | Previsão | Status| Histórico|
 # Objetivo do Projeto
 >A nossa revendedora de celulares busca se tornar uma referência em qualidade, variedade e atendimento ao cliente. Queremos oferecer os melhores modelos de smartphones disponíveis no mercado, desde os mais populares até os de alta gama, sempre acompanhados de um suporte técnico e consultivo que ajude os consumidores a escolherem o dispositivo que melhor atende às suas necessidades.
 
-# Funcionalidades e Demonstrações das Sprints
-
-## Sprint 1
->Colocar o vídeo da apresentação
-
-[![SPRINT 1](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
-
-## Sprint 2
->Colocar o vídeo da apresentação
-
-[![SPRINT 2](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
-## Sprint 3
->Colocar o vídeo da apresentação
-
-[![SPRINT 3](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
-
-## Sprint 4
->Colocar o vídeo da apresentação
-
-[![SPRINT 4](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
-
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
-
-[![feira](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
-
 ## Tecnologias Utilizadas
 ### Produto 
 
@@ -91,17 +55,6 @@ Vídeo com a apresentação final da API do "semestre/ano"
 ### Tecnológias Específicas/Apoio
 ![image](https://github.com/user-attachments/assets/cfe3400b-7545-4f85-bb8d-eabbccb29811)
 
-
-  
-### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
-
-# Cronograma das Sprints
-
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
 
 ## Backlog do produto
