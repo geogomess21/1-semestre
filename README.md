@@ -65,10 +65,10 @@ Sprint | Previsão | Status| Histórico|
 >![image](https://github.com/user-attachments/assets/e3e15eee-79a9-440a-9cf4-4d05dc551277)
 
       
-## Sprint 3 - Implementação
+## Sprint 3 
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
       
-## Sprint 4 - Operacionalização
+## Sprint 4
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
 
 
