@@ -70,38 +70,31 @@ Sprint | Previsão | Status| Histórico|
 
 ## Hard Skill (saber tecnológico)
 <details>
-<summary>Hard Skills desenvolvidas</summary>
+Gestão do Estoque  e Logístico,
+Habilidades em venas e marketing digital,
+Habilidades administrativas e financeiras,
+Atendimento ao cliente e
+Conhecimento técnico de Smartphones
+      
+      <summary>Hard Skills desenvolvidas</summary>
   
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
- 
-</details>
-
 ## Soft Skill (saber comportamental)
 <details>
+Comunicação clara e efetiva,
+Empatia e relacionamento com clientes,
+Trabalho em equipe,
+Proatividade e solução de problemas, 
+Organização e gestão de tempo e
+Aprendizado contínuo
 <summary>Soft Skills desenvolvidas</summary>
 
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-
-</details>
 
 
 # Autores
-| Função | Nome |  LinkedIn & GitHub |
+| Função | Nome |  
 | - | - | - |
-|Product Owner| Leonardo Sousa| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge]((https://github.com/geogomess21))]()|
-|Scrum Master| Geovanna Elisa |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]()[![GitHub Badge](https://github.com/geogomess21)]()|         
-|Team Member| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Product Owner| Leonardo Sousa| 
+|Scrum Master| Geovanna Elisa |          
+|Team Scrum| Adrian  |
+|Team Scrum| Sérgio  |
+|Team Scrum| Alison |
