@@ -58,7 +58,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 
-## Sprint 1 - Concepção
+## Sprint 1 
 >![image](https://github.com/user-attachments/assets/41a2e5b6-d813-4877-9f79-04c636fe8a6d)
 
 ## Sprint 2 - Desenvolvimento do Projeto
