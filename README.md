@@ -31,16 +31,9 @@ Sprint | Previsão | Status| Histórico|
 |04| 12/12/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 |Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
-> Possíveis status: a fazer, em progresso e concluido
-
-
 # Equipe
 >![Captura de tela 2024-10-29 195542](https://github.com/user-attachments/assets/5c5df028-fed8-464e-a614-737ad2a5e130)
 
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
-</p>
 
 # Objetivo do Projeto
 >A nossa revendedora de celulares busca se tornar uma referência em qualidade, variedade e atendimento ao cliente. Queremos oferecer os melhores modelos de smartphones disponíveis no mercado, desde os mais populares até os de alta gama, sempre acompanhados de um suporte técnico e consultivo que ajude os consumidores a escolherem o dispositivo que melhor atende às suas necessidades.
@@ -60,16 +53,9 @@ Sprint | Previsão | Status| Histórico|
 ## Backlog do produto
 >Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
-</p>
-
 ## Burndown
 >Colocar aqui Burndown do projeto
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
-</p>
 
 ## Sprint 1 - Concepção
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
