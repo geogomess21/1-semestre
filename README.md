@@ -88,11 +88,11 @@ Organização e gestão de tempo e
 Aprendizado contínuo
 
       
-  <summary>Soft Skills desenvolvidas</summary>
+      <summary> Soft Skills desenvolvidas</summary>
 
 
 
-## Autores
+##Autores
 | Função | Nome |  
 | - | - | - |
 |Product Owner| Leonardo Sousa| 
