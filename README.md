@@ -11,9 +11,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
-* [Cronograma das Sprints](#cronograma-das-sprints) 
-* [Backlog do Produto](#backlog-do-produto)
-* [Burndown](#burndown)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
@@ -92,7 +89,7 @@ Aprendizado contínuo
 
 
 
-##Autores
+## Autores
 | Função | Nome |  
 | - | - | - |
 |Product Owner| Leonardo Sousa| 
