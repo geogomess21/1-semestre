@@ -55,10 +55,11 @@ Sprint | Previsão | Status| Histórico|
 
 ## Burndown
 >Colocar aqui Burndown do projeto
+![image](https://github.com/user-attachments/assets/41a2e5b6-d813-4877-9f79-04c636fe8a6d)
 
 
 ## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+>
 
 ## Sprint 2 - Desenvolvimento do Projeto
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
