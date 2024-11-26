@@ -74,7 +74,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
+> Total plano configurado do projeto, seguindo dados passados para cada competência a partir do gerenciamento de estoque quanto para finalização, venda do produto, marketing e outras aréas da empresa.
 
 ## Hard Skill (saber tecnológico)
 <details>
