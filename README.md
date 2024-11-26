@@ -50,15 +50,6 @@ Sprint | Previsão | Status| Histórico|
 ![image](https://github.com/user-attachments/assets/cfe3400b-7545-4f85-bb8d-eabbccb29811)
 
 
-
-## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
-
-## Burndown
->Colocar aqui Burndown do projeto
-
-
-
 ## Sprint 1 
 >![image](https://github.com/user-attachments/assets/41a2e5b6-d813-4877-9f79-04c636fe8a6d)
 
