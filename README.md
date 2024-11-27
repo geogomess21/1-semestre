@@ -65,7 +65,7 @@ Sprint | Previsão | Status| Histórico|
 # Competências desenvolvidas
 > Total plano configurado do projeto, seguindo dados passados para cada competência a partir do gerenciamento de estoque quanto para finalização, venda do produto, marketing e outras aréas da empresa.
 
-## Hard Skill (saber tecnológico)
+# Hard Skill (saber tecnológico)
 <details>
 Gestão do Estoque  e Logístico,
 Habilidades em venas e marketing digital,
@@ -74,38 +74,24 @@ Atendimento ao cliente e
 Conhecimento técnico de Smartphones
       
       <summary>Hard Skills desenvolvidas</summary>
-  
-'## Soft Skill (saber comportamental)
-'<details>
-'Comunicação clara e efetiva,
-'Empatia e relacionamento com clientes,
-'Trabalho em equipe,
-'Proatividade e solução de problemas, 
-'Organização e gestão de tempo e
-'Aprendizado contínuo
 
-      
-'      <summary> Soft Skills desenvolvidas</summary>
-
-
+  <details>
 ## Soft Skill (saber comportamental)
 <details>
-<summary>Soft Skills desenvolvidas</summary>
+Comunicação clara e efetiva,
+Empatia e relacionamento com clientes,
+Trabalho em equipe,
+Proatividade e solução de problemas, 
+Organização e gestão de tempo e
+Aprendizado contínuo
 
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-
-</details>
-
+      
+      <summary> Soft Skills desenvolvidas</summary>
+<details>
 
 
 ## Autores
+<details>
 | Função | Nome |  
 | - | - | - |
 |Product Owner| Leonardo Sousa| 
@@ -113,3 +99,5 @@ Conhecimento técnico de Smartphones
 |Team Scrum| Adrian  |
 |Team Scrum| Sérgio  |
 |Team Scrum| Alison |
+
+<details>
