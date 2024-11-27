@@ -75,17 +75,33 @@ Conhecimento técnico de Smartphones
       
       <summary>Hard Skills desenvolvidas</summary>
   
-## Soft Skill (saber comportamental)
-<details>
-Comunicação clara e efetiva,
-Empatia e relacionamento com clientes,
-Trabalho em equipe,
-Proatividade e solução de problemas, 
-Organização e gestão de tempo e
-Aprendizado contínuo
+'## Soft Skill (saber comportamental)
+'<details>
+'Comunicação clara e efetiva,
+'Empatia e relacionamento com clientes,
+'Trabalho em equipe,
+'Proatividade e solução de problemas, 
+'Organização e gestão de tempo e
+'Aprendizado contínuo
 
       
-      <summary> Soft Skills desenvolvidas</summary>
+'      <summary> Soft Skills desenvolvidas</summary>
+
+
+## Soft Skill (saber comportamental)
+<details>
+<summary>Soft Skills desenvolvidas</summary>
+
+| Habilidades | Classificação |
+| ---------------------- | ------------- |
+|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+
+</details>
 
 
 
