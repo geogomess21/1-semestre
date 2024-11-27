@@ -59,7 +59,7 @@ Sprint | Previsão | Status| Histórico|
 
       
 ## Sprint 4
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+>Em andamento
 
 
 # Competências desenvolvidas
