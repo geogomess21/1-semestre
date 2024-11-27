@@ -72,7 +72,7 @@ Habilidades administrativas e financeiras,
 Atendimento ao cliente e
 Conhecimento técnico de Smartphones
       
-      <summary>Hard Skills desenvolvidas</summary>
+      
 # Soft Skill (saber comportamental)
 Comunicação clara e efetiva,
 Empatia e relacionamento com clientes,
@@ -82,7 +82,7 @@ Organização e gestão de tempo e
 Aprendizado contínuo
 
       
-      <summary> Soft Skills desenvolvidas</summary>
+
 
 ## Autores
 | Função | Nome |  
