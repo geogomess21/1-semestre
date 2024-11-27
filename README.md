@@ -66,7 +66,6 @@ Sprint | Previsão | Status| Histórico|
 > Total plano configurado do projeto, seguindo dados passados para cada competência a partir do gerenciamento de estoque quanto para finalização, venda do produto, marketing e outras aréas da empresa.
 
 # Hard Skill (saber tecnológico)
-<details></details>
 >Gestão do Estoque  e Logístico,
 >Habilidades em venas e marketing digital,
 >Habilidades administrativas e financeiras,
@@ -75,7 +74,6 @@ Sprint | Previsão | Status| Histórico|
       
       
 # Soft Skill (saber comportamental)
-<details></details>
 >Comunicação clara e efetiva,
 >Empatia e relacionamento com clientes,
 >Trabalho em equipe,
