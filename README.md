@@ -66,22 +66,30 @@ Sprint | Previsão | Status| Histórico|
 > Total plano configurado do projeto, seguindo dados passados para cada competência a partir do gerenciamento de estoque quanto para finalização, venda do produto, marketing e outras aréas da empresa.
 
 # Hard Skill (saber tecnológico)
-Gestão do Estoque  e Logístico,
-Habilidades em venas e marketing digital,
-Habilidades administrativas e financeiras,
-Atendimento ao cliente e
-Conhecimento técnico de Smartphones
+>Gestão do Estoque  e Logístico,
+>Habilidades em venas e marketing digital,
+>Habilidades administrativas e financeiras,
+>Atendimento ao cliente e
+>Conhecimento técnico de Smartphones
       
       
 # Soft Skill (saber comportamental)
-Comunicação clara e efetiva,
-Empatia e relacionamento com clientes,
-Trabalho em equipe,
-Proatividade e solução de problemas, 
-Organização e gestão de tempo e
-Aprendizado contínuo
+>Comunicação clara e efetiva,
+>Empatia e relacionamento com clientes,
+>Trabalho em equipe,
+>Proatividade e solução de problemas, 
+>Organização e gestão de tempo e
+>Aprendizado contínuo
 
       
+# Autores
+| Função | Nome |
+| - | - |
+|Product Owner| Leonardo Souza |
+|Scrum Master| Geovanna ELisa |
+|Scrum Member| Sergio Mariano |
+|Scrum Member| Alison Henrique |
+|Scrum Member| Adrian Augusto |
 
 
 ## Autores
