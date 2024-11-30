@@ -2,6 +2,9 @@
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
+>![image]https://www.canva.com/design/DAGT3jHI5YQ/FdIfzPB3O35purtIGBuNdQ/edit
+>
+>
 # Índice
 
 * [Projeto (API)](#projeto-api)
