@@ -62,7 +62,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 ## Hard Skill (saber tecnológico)
-<details>
+
 <summary>Hard Skills desenvolvidas</summary>
   
 | Tecnologia/Metodologia | Classificação |
@@ -74,7 +74,7 @@ Sprint | Previsão | Status| Histórico|
 | Conhecimento técnico de Smartphones | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 ## Soft Skill (saber comportamental)
-<details>
+
 <summary>Soft Skills desenvolvidas</summary>
 
 | Habilidades | Classificação |
