@@ -61,9 +61,6 @@ Sprint | Previsão | Status| Histórico|
 >Em andamento
 
 
-# Competências desenvolvidas
-> Total plano configurado do projeto, seguindo dados passados para cada competência a partir do gerenciamento de estoque quanto para finalização, venda do produto, marketing e outras aréas da empresa.
-
 # Hard Skill (saber tecnológico)
 >Gestão do Estoque  e Logístico,
 >Habilidades em venas e marketing digital,
