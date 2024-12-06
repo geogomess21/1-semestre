@@ -61,29 +61,37 @@ Sprint | Previsão | Status| Histórico|
 >Em andamento
 
 
-# Hard Skill (saber tecnológico)
->Gestão do Estoque  e Logístico,
->Habilidades em venas e marketing digital,
->Habilidades administrativas e financeiras,
->Atendimento ao cliente e
->Conhecimento técnico de Smartphones
-      
-      
-# Soft Skill (saber comportamental)
->Comunicação clara e efetiva,
->Empatia e relacionamento com clientes,
->Trabalho em equipe,
->Proatividade e solução de problemas, 
->Organização e gestão de tempo e
->Aprendizado contínuo
+## Hard Skill (saber tecnológico)
+<details>
+<summary>Hard Skills desenvolvidas</summary>
+  
+| Tecnologia/Metodologia | Classificação |
+| ---------------------- | ------------- |
+| Gestão do Estoque  e Logístico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Habilidades em venas e marketing digital | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Habilidades administrativas e financeiras | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Atendimento ao cliente | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Conhecimento técnico de Smartphones | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
-      
-# Autores
-| Função | Nome |
-| - | - |
-|Product Owner| Leonardo Souza |
-|Scrum Master| Geovanna ELisa |
-|Scrum Member| Sergio Mariano |
-|Scrum Member| Alison Henrique |
-|Scrum Member| Adrian Augusto |
+## Soft Skill (saber comportamental)
+<details>
+<summary>Soft Skills desenvolvidas</summary>
+
+| Habilidades | Classificação |
+| ---------------------- | ------------- |
+| Comunicação clara e efetiva | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Empatia e relacionamento com clientes | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Proatividade e solução de problemas | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| rganização e gestão de tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Aprendizado contínuo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+       
+
+| Função | Nome |  LinkedIn & GitHub |
+| - | - | - |
+|Product Owner| Leonardo Souza | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Scrum Master| Geovanna Elisa | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Sergio Mariano | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Alison Henrique | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Adrian Augusto | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 
